@@ -1,0 +1,5 @@
+{
+  "version": "1.8.2",
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v1.8.2/freetime.apk",
+  "notes": "Novo: página de Categorias (criar, editar, reordenar, apagar); Navegação do Dashboard para Lembretes por categoria; Calendário mostra lembretes do dia antes de criar novo; Partilha de listas de compras; Feriados do Brasil"
+}
