@@ -1,0 +1,5 @@
+{
+  "version": "1.8.4",
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v1.8.4/freetime.apk",
+  "notes": "Fix: página de Categorias — editar/apagar/reordenar agora funcionam correctamente; fix crash TextEditingController"
+}
