@@ -1,0 +1,7 @@
+{
+  "version": "1.9.6",
+  "build": 28,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v1.9.6/freetime.apk",
+  "sha256": "6fdd199b7b44cf27109448cb6508853147d34ffd6d6a21119e2a5a1004d9074c",
+  "notes": "v1.9.6 — Correção: export PDF funcional (erro ao gerar ficheiro resolvido)"
+}
