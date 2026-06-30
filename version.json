@@ -1,0 +1,7 @@
+{
+  "version": "1.9.8",
+  "build": 30,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v1.9.8/freetime.apk",
+  "sha256": "de9f2254812765fe6e31f99c301a019e88c6d5473a0ddc0379aae135b0058125",
+  "notes": "v1.9.8 — PDF: pagina em branco eliminada, icone no cabecalho"
+}
