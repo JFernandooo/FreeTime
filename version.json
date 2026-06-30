@@ -1,0 +1,7 @@
+{
+  "version": "2.0.2",
+  "build": 34,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v2.0.2/freetime.apk",
+  "sha256": "5284d0d35fa664004bda8455deddc89f6ef35e8925a60f57e50ca0ad89a85065",
+  "notes": "v2.0.2 - Fix voz sem internet: para de escutar e mostra aviso em vez de ficar preso"
+}
