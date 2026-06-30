@@ -1,0 +1,7 @@
+{
+  "version": "2.0.1",
+  "build": 33,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v2.0.1/freetime.apk",
+  "sha256": "05192ae6df7a6a5bee43e95241ae4e549aeb1c70f1d2dc8f7508059f14a6ebe1",
+  "notes": "v2.0.1 - Guardar localmente: exportar CSV/PDF direto para Transferencias ou Google Drive"
+}
