@@ -1,0 +1,7 @@
+{
+  "version": "1.9.4",
+  "build": 26,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v1.9.4/freetime.apk",
+  "sha256": "b4fd47bce9ceea7f845312158d9dd15b52e6370757e740a4e21323e74c9e96ab",
+  "notes": "v1.9.4 — Segurança e Correções: PBKDF2 para backup Drive, preferências encriptadas, permissões desnecessárias removidas, export CSV/PDF traduzido, verificação de integridade do APK, deep links com validação estrita"
+}
