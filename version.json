@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "build": 32,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v2.0.0/freetime.apk",
+  "sha256": "ddff58fcc19c0fc663084e0fc192b188e4a4550db45a9a2bbcfaf508a0a164a4",
+  "notes": "v2.0.0 — PDF com conteudo visivel (ficheiro nao apagado antes do viewer terminar de ler)"
+}
