@@ -1,0 +1,7 @@
+{
+  "version": "1.9.5",
+  "build": 27,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v1.9.5/freetime.apk",
+  "sha256": "641774c6eeadd06f3b549d107acd55e61f54dd73158df4159eaf9fdaae344763",
+  "notes": "v1.9.5 — Correções: PDF sem página em branco, CSV compatível com Excel (BOM UTF-8, separador regional)"
+}
