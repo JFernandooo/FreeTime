@@ -1,0 +1,7 @@
+{
+  "version": "2.0.4",
+  "build": 36,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v2.0.4/freetime.apk",
+  "sha256": "3a850f6fced153658015bfdbd3be701b3d366fa678eed75edb9dcdbe291c4d8b",
+  "notes": "v2.0.4 - Medicamentos adicionados ao Timeline; Firebase Analytics"
+}
