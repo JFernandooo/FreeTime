@@ -1,0 +1,7 @@
+{
+  "version": "2.1.1",
+  "build": 38,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.1/freetime.apk",
+  "sha256": "fd3fd913b306c7a817adb7020dd7fa2e640de47455af39e2a9dfdcd7a8f660a7",
+  "notes": "v2.1.1 - Fix Google Drive (login). AVISO: se vieres de uma versao anterior a v2.1.0, e necessario desinstalar a app, fazer backup pelo Google Drive antes."
+}
