@@ -1,0 +1,7 @@
+{
+  "version": "2.1.0",
+  "build": 37,
+  "apk_url": "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.0/freetime.apk",
+  "sha256": "ca491c8d0cdd8ca948b547be4fa017136719afdcd5397075076401acaf197026",
+  "notes": "v2.1.0 - Estatísticas, Gestão de Tarefas, Gestão de Tempo (Pomodoro+Livre), Lembretes de Localização com mapa"
+}
