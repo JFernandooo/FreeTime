@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.6",
+    "build":  43,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.6/freetime.apk",
+    "sha256":  "9e19501422b71393aa5ead0d2d5f843d6ccfc58a4f48585339f55ff5bc24a942",
+    "notes":  "v2.1.6 - Lembretes concluidos apagados passam a ir para a Lixeira (com confirmacao), restauraveis de volta ao historico. Exportacao CSV/PDF alargada a Pendentes e ao historico de Concluidos. Novo modo \u0027Personalizado (Horas)\u0027 no Aviso Antecipado, para lembretes com hora definida no mesmo dia. Robustecido o sistema de XP/Nivel (sementeira determinista no arranque, sem depender da ordem dos ecras)."
+}
