@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.4",
+    "build":  41,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.4/freetime.apk",
+    "sha256":  "1a11a69bb76ebfe16097153a066d9cc36588b2460a8fe58c1a02d7fb776e38fe",
+    "notes":  "v2.1.4 - Novo botao \u0027Guardar Modelo\u0027, separado de \u0027Criar Lembrete\u0027, para atualizar um modelo sem criar um lembrete. Modelos apagados passam a ir para a Lixeira. Corrigido um bug em que restaurar um modelo da Lixeira nao atualizava a lista de Modelos."
+}
