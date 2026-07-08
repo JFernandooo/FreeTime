@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.7",
+    "build":  44,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.7/freetime.apk",
+    "sha256":  "61dcae169c0f6be76a8666911f276f7a633fb91e95a741371bc847255dbcd2c5",
+    "notes":  "v2.1.7 - Corrigido o pedido da permissao de alarmes exatos, que nalguns dispositivos nunca aparecia (a app pensava que ja estava concedida, mas o agendamento falhava a seguir). Passa a usar diretamente a fonte de verdade do Android em vez do permission_handler. O aviso \u0027nao foi possivel agendar a notificacao\u0027 (Lembretes, Habitos, Medicamentos, Tarefas) ganhou tambem um botao \u0027Ativar\u0027 para corrigir na hora."
+}
