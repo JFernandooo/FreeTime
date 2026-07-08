@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.5",
+    "build":  42,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.5/freetime.apk",
+    "sha256":  "ae6951f7bd9a3e51e103223eaedb59dbb55c13542d5f8790775485547203ade2",
+    "notes":  "v2.1.5 - Dashboard clicavel (toca num cartao de estatisticas para ver os lembretes filtrados) e botao \u0027Concluir\u0027 nas notificacoes. Backup/restauro (Drive e manual) passam a incluir lembretes de localizacao e mais preferencias (nivel/XP, horario silencioso, resumo diario). Aviso quando um lembrete e guardado mas a notificacao nao pode ser agendada. Selecao multipla e acoes em lote em Habitos, Tarefas, Notas, Medicamentos e Listas de compras. Pesquisa global alargada a Notas, Listas de compras e Lembretes de localizacao, e passa a ignorar acentos. Exportacao CSV/PDF agora inclui Medicamentos e Listas de compras."
+}
