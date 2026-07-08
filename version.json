@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.3",
+    "build":  40,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.3/freetime.apk",
+    "sha256":  "52fae98709661b74908811dfa38fa823cbb9ac57494b3ce1d58f8fda720436da",
+    "notes":  "v2.1.3 - Renomeado o filtro \u0027Esta semana\u0027 para \u0027Proximos 7 dias\u0027 (dashboard e lembretes), mais claro sobre o que mostra. Novo: os modelos de lembrete agora podem ser editados diretamente, sem ter de apagar e recriar."
+}
