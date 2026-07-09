@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.12",
+    "build":  49,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.12/freetime.apk",
+    "sha256":  "f3cab3ac6cf9af65c0d6cb44f84c8e09b5f60c602e59c9f66dd7a36e22742a01",
+    "notes":  "v2.1.12 - Corrigido o botao \u0027Concluir\u0027 na notificacao, que nao funcionava com a app fechada. Lembretes com hora definida passam a mostrar essa hora e a ficar \u0027Vencidos\u0027 a partir dela, nao so no dia seguinte. Corrigido o calculo de \u0027faltam X dias\u0027, que subcontava sempre 1 dia. Novo icone dedicado na barra de notificacoes/lock screen, em vez de uma bola branca sem forma."
+}
