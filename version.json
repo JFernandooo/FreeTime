@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.10",
+    "build":  47,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.10/freetime.apk",
+    "sha256":  "c5f8c8a9e0da7ed2fc2bcf32858578b419df77ab6a6210c087e8632eaa62621f",
+    "notes":  "v2.1.10 - Notificacoes de lembretes com hora definida passam a mostrar a hora, nao so a data. Corrigido um bug grave em que editar e gravar um lembrete (sem o concluir) registava uma conclusao falsa no historico e nas estatisticas. Notificacoes do Modo Insistente ganharam os botoes \u0027Concluir\u0027/\u0027Adiar 1h\u0027, que so a notificacao principal e o Modo Alarme tinham."
+}
