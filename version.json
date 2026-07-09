@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.11",
+    "build":  48,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.11/freetime.apk",
+    "sha256":  "e39b4ef2b0be2d42fbb1e9eba49681dbbd1b557361db9820f8c2a3f5311ac498",
+    "notes":  "v2.1.11 - Concluir um lembrete, marcar uma dose de medicamento como tomada ou arquivar uma lista de compras passam tambem a dar experiencia (XP), tal como ja acontecia com Tarefas e Habitos. Aviso de subida de nivel replicado para estes novos casos."
+}
