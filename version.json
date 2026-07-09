@@ -1,0 +1,7 @@
+﻿{
+    "version":  "2.1.9",
+    "build":  46,
+    "apk_url":  "https://github.com/JFernandooo/FreeTime/releases/download/v2.1.9/freetime.apk",
+    "sha256":  "ce9740b93d4753efc19d926f1e0200249e1f2b5603edb479722c85db8a43caff",
+    "notes":  "v2.1.9 - Corrigida a causa real de \u0027nao foi possivel agendar a notificacao\u0027 em builds de release: faltavam regras de R8 para o cache interno de notificacoes (Gson/TypeToken), o que partia sempre o agendamento em producao. A mensagem de aviso tambem deixou de apontar sempre para a permissao de alarme exato quando essa nao era a causa, e o erro real passa a ficar registado para diagnostico futuro."
+}
